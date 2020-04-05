@@ -1,3 +1,4 @@
-# modula
-Shiny app CAS statistical modelling
-Check it out at: https://marcoullmann.shinyapps.io/modulA/
+# Modula A - CAS statistical modelling
+Old Faithful Geyser Data visualization with ggplot2. 
+
+Check it out here: https://marcoullmann.shinyapps.io/modulA/
